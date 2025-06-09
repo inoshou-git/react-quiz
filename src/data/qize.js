@@ -7,7 +7,7 @@ const quizData = [
     {
       question: "次のうち、HTML5で正しい文書の開始タグはどれですか？",
       options: [
-        "<html version="5.0">",
+        "<html version=`5.0`>",
         "<!DOCTYPE html>",
         "<DOCTYPE html>",
         "<!HTML>",

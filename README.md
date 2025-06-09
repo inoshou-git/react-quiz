@@ -1,8 +1,31 @@
-# React + Vite
+# React + Viteで作ったクイズゲームです。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+youtube動画「セイト先生のWeb・ITエンジニア転職ラボ」内でのReact講座で制作したものになります。
 
-Currently, two official plugins are available:
+# 環境構築
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- node v20.11.0
+
+以下、リポジトリをクローンします。
+
+```git
+git clone git@github.com:inoshou-git/react-quiz.git
+```
+
+プロジェクトディレクトリに移動して、パッケージのインストール
+
+```bash
+cd react-quiz
+npm install
+```
+
+開発サーバーの起動
+
+```bash
+npm run dev
+```
+
+# ディレクトリ構成
+
+- [セイト先生のWeb・ITエンジニア転職ラボ](https://www.youtube.com/@webit7652)
+- [【2025年最新】世界一簡単なReact講座！JavaScript初心者・中級者は必見](https://www.youtube.com/watch?v=TgU-FT2WdS4&t=8368s)
